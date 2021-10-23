@@ -1,4 +1,4 @@
-Netlify Deployment: react-demo-portfolio.netlify.app
+Netlify Deployment: https://react-demo-portfolio.netlify.app/
 
 # Getting Started with Create React App
 
